@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KrummLab5</string>
+    <string name="dollar">75 руб.</string>
+    <string name="euro">90 руб.</string>
+    <string name="pound">100 руб.</string>
+    <string name="button_convert_text">OK</string>
+    <string name="price">Цена = </string>
+    <string name="result_text"></string>
+</resources>
